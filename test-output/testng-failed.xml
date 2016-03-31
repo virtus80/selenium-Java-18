@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="sasha.LoginTest">
+      <class name="sasha.CreateDescriptionPositive">
         <methods>
           <include name="init"/>
-          <include name="testUntitled"/>
           <include name="tearDown"/>
+          <include name="testCreateDescriprionPositive"/>
         </methods>
-      </class> <!-- sasha.LoginTest -->
+      </class> <!-- sasha.CreateDescriptionPositive -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
